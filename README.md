@@ -6,4 +6,4 @@ Instalacion
 
 
 
-- User: { legajo:1, nombre:'Juan' apellido: 'Gomez', anio: '2020'}
+- User: { legajo:1, nombre:'Mateo' apellido: 'Garcia Bermudez', anio: '2020'}
